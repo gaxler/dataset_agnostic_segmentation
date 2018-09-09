@@ -1,6 +1,6 @@
 # Dataset Agnostic Word Segmentation
 
-TensorFlow implementation of a segmentation system for document images.
+TensorFlow implementation of [Towards A Dataset Agnostic Word Segmentation](https://sites.google.com/view/tdsas/home)segmentation system for document images.
 
 ## Usage
 
